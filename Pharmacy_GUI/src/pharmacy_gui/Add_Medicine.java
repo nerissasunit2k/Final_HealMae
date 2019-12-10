@@ -65,9 +65,9 @@ public class Add_Medicine  extends javax.swing.JFrame {
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setBackground(new java.awt.Color(69, 138, 247));
+        setBackground(new java.awt.Color(248,148,6));
 
-        jPanel1.setBackground(new java.awt.Color(69, 138, 247));
+        jPanel1.setBackground(new java.awt.Color(248,148,6));
 
         Name.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         Name.setText("Medicine Name : ");
@@ -78,7 +78,7 @@ public class Add_Medicine  extends javax.swing.JFrame {
             }
         });
 
-        jPanel2.setBackground(new java.awt.Color(122, 170, 245));
+        jPanel2.setBackground(new java.awt.Color(248,148,6));
         jPanel2.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         WordReg.setFont(new java.awt.Font("Times New Roman", 1, 48)); // NOI18N
@@ -110,7 +110,7 @@ public class Add_Medicine  extends javax.swing.JFrame {
             }
         });
 
-        CancelBtn.setBackground(new java.awt.Color(122, 170, 245));
+        CancelBtn.setBackground(new java.awt.Color(44,62,80));
         CancelBtn.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         CancelBtn.setText("Cancel");
         CancelBtn.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.blue, java.awt.Color.blue, null, java.awt.Color.blue));
@@ -126,7 +126,7 @@ public class Add_Medicine  extends javax.swing.JFrame {
             }
         });
 
-        AddBtn.setBackground(new java.awt.Color(122, 170, 245));
+        AddBtn.setBackground(new java.awt.Color(44,62,80));
         AddBtn.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         AddBtn.setText("Add");
         AddBtn.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.blue, java.awt.Color.blue, null, java.awt.Color.blue));
@@ -142,7 +142,7 @@ public class Add_Medicine  extends javax.swing.JFrame {
             }
         });
 
-        ViewMedBtn.setBackground(new java.awt.Color(122, 170, 245));
+        ViewMedBtn.setBackground(new java.awt.Color(44,62,80));
         ViewMedBtn.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         ViewMedBtn.setText("View Medicine");
         ViewMedBtn.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.blue, java.awt.Color.blue, null, java.awt.Color.blue));

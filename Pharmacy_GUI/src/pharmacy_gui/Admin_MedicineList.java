@@ -84,15 +84,15 @@ public class Admin_MedicineList extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(69, 138, 247));
+        jPanel1.setBackground(new java.awt.Color(248,148,6));
 
-        jPanel2.setBackground(new java.awt.Color(122, 170, 245));
+        jPanel2.setBackground(new java.awt.Color(248,148,6));
         jPanel2.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         Title.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         Title.setText("HealMae");
 
-        jPanel3.setBackground(new java.awt.Color(122, 170, 245));
+        jPanel3.setBackground(new java.awt.Color(248,148,6));
         jPanel3.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
@@ -142,7 +142,7 @@ public class Admin_MedicineList extends javax.swing.JFrame {
                 .addGap(12, 12, 12))
         );
 
-        LogoutMain.setBackground(new java.awt.Color(122, 170, 245));
+        LogoutMain.setBackground(new java.awt.Color(44,62,80));
         LogoutMain.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         LogoutMain.setText("Logout");
         LogoutMain.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.white, java.awt.Color.blue, null, java.awt.Color.white));
@@ -217,7 +217,7 @@ public class Admin_MedicineList extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        AddMed.setBackground(new java.awt.Color(122, 170, 245));
+        AddMed.setBackground(new java.awt.Color(44,62,80));
         AddMed.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         AddMed.setText("Add");
         AddMed.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.blue, java.awt.Color.blue, null, java.awt.Color.blue));
@@ -233,7 +233,7 @@ public class Admin_MedicineList extends javax.swing.JFrame {
             }
         });
 
-        Delete.setBackground(new java.awt.Color(122, 170, 245));
+        Delete.setBackground(new java.awt.Color(44,62,80));
         Delete.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         Delete.setText("Delete");
         Delete.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.blue, java.awt.Color.blue, null, java.awt.Color.blue));
@@ -249,7 +249,7 @@ public class Admin_MedicineList extends javax.swing.JFrame {
             }
         });
 
-        Purchase.setBackground(new java.awt.Color(122, 170, 245));
+        Purchase.setBackground(new java.awt.Color(44,62,80));
         Purchase.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         Purchase.setText("Purchase");
         Purchase.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.blue, java.awt.Color.blue, null, java.awt.Color.blue));

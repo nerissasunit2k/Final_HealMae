@@ -118,7 +118,7 @@ public class Order extends javax.swing.JFrame {
             }
         });
 
-        PurchaseBtn.setBackground(new java.awt.Color(122, 170, 245));
+        PurchaseBtn.setBackground(new java.awt.Color(44,62,80));
         PurchaseBtn.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         PurchaseBtn.setText("Purchase");
         PurchaseBtn.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.blue, java.awt.Color.blue, null, java.awt.Color.blue));
@@ -134,7 +134,7 @@ public class Order extends javax.swing.JFrame {
             }
         });
 
-        ViewMedBtn.setBackground(new java.awt.Color(122, 170, 245));
+        ViewMedBtn.setBackground(new java.awt.Color(44,62,80));
         ViewMedBtn.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         ViewMedBtn.setText("View Medicine");
         ViewMedBtn.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.blue, java.awt.Color.blue, null, java.awt.Color.blue));

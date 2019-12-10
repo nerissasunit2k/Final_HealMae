@@ -44,7 +44,7 @@ public class Login extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(69, 138, 247));
+        jPanel1.setBackground(new java.awt.Color(248,148,6));
 
         LoginText.setFont(new java.awt.Font("Times New Roman", 1, 48)); // NOI18N
         LoginText.setText("Login");
@@ -55,7 +55,7 @@ public class Login extends javax.swing.JFrame {
         UsernameLog1.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         UsernameLog1.setText("Username :");
 
-        LoginButtonLog.setBackground(new java.awt.Color(122, 170, 245));
+        LoginButtonLog.setBackground(new java.awt.Color(44,62,80));
         LoginButtonLog.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         LoginButtonLog.setText("Login");
         LoginButtonLog.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.white, java.awt.Color.blue, null, java.awt.Color.white));
@@ -71,7 +71,7 @@ public class Login extends javax.swing.JFrame {
             }
         });
 
-        RegisterButtonLog.setBackground(new java.awt.Color(122, 170, 245));
+        RegisterButtonLog.setBackground(new java.awt.Color(44,62,80));
         RegisterButtonLog.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         RegisterButtonLog.setText("Register");
         RegisterButtonLog.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.white, java.awt.Color.blue, null, java.awt.Color.white));

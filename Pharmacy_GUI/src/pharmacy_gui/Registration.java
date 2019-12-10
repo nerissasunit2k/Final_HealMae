@@ -75,7 +75,7 @@ public class Registration extends javax.swing.JFrame {
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setBackground(new java.awt.Color(69, 138, 247));
+        setBackground(new java.awt.Color(44,62,80));
 
         jPanel1.setBackground(new java.awt.Color(248,148,6));
 
@@ -115,7 +115,7 @@ public class Registration extends javax.swing.JFrame {
             }
         });
 
-        RegisterButton.setBackground(new java.awt.Color(122, 170, 245));
+        RegisterButton.setBackground(new java.awt.Color(44,62,80));
         RegisterButton.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         RegisterButton.setText("Register");
         RegisterButton.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.blue, java.awt.Color.blue, null, java.awt.Color.blue));
@@ -130,7 +130,8 @@ public class Registration extends javax.swing.JFrame {
                 RegisterButtonActionPerformed(evt);
             }
         });
-
+        
+        LoginButton.setBackground(new java.awt.Color(44,62,80));
         LoginButton.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         LoginButton.setText("Login");
         LoginButton.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.white, java.awt.Color.blue, null, java.awt.Color.white));
